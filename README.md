@@ -14,9 +14,11 @@ But is not convincible enough with partial analysis，so the deeper analysis is 
 The max age of the MVP is 35 and there are some MVP Winners who over age of 30.
 From this Age Distribution chart, the age of MVPs can be divided into three parts： 22-24,25-29,30-35
 The tendency is raising form part 1，reach the peak in part 2 and start to descend in part 3.
+![Age Distribution2](https://user-images.githubusercontent.com/89670129/135693863-c7190e3e-061b-4d9b-b603-32a179e8ef77.png)
+
 So the general conclusion is —— The age of MVP tends to be players’twenties and the older the player the possibility to win MVP is smaller.
 
-
+#
 
 
 ## Data Selection
