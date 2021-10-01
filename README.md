@@ -5,7 +5,7 @@
 ## Data Selection
 #### There are many features that affect MVP evaluation, we decided to use Random Forest Regression and Heatmaps to indentify which features that are important to our prediction model。
 
-#### ![Data Selection Workbook](https://github.com/zzhu76/NBA-MVP-Prediction/blob/main/MVP_Feature_Selection_.ipynb)
+#### This is the workbook ![Data Selection Workbook](https://github.com/zzhu76/NBA-MVP-Prediction/blob/main/MVP_Feature_Selection_.ipynb)
 
 #### Random Forest Regression
 ![Random Forest Regression](https://user-images.githubusercontent.com/89670129/135665300-428f22db-47ba-4ea4-8f7c-9ad99c065815.jpg)
