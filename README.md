@@ -6,6 +6,8 @@
 
 According to the list of NBA MVP Winners from 1956 to 2021, we can get basic information of the MVPs. I analyzed the original data with Python.
 The total number of MVPs is 66, average age is 27，the Youngest MVP is 22 and the oldest is 35.
+
+![Age Distribution](https://user-images.githubusercontent.com/89670129/135693723-02fec89e-7033-4f89-b543-b3ce9a754007.png)
 From this Age Distribution, initial conclusion can be drawn from the average age and the minium age —— The age of MVP tends to be players’twenties.
 But is not convincible enough with partial analysis，so the deeper analysis is necessary.
 
