@@ -2,6 +2,26 @@
 
 ## Historical Data Analysis
 
+#### Age Distribution
+
+According to the list of NBA MVP Winners from 1956 to 2021, we can get basic information of the MVPs. I analyzed the original data with Python.
+The total number of MVPs is 66, average age is 27，the Youngest MVP is 22 and the oldest is 35.
+![Age Distribution](https://user-images.githubusercontent.com/89670129/135693723-02fec89e-7033-4f89-b543-b3ce9a754007.png)
+From this Age Distribution, initial conclusion can be drawn from the average age and the minium age —— The age of MVP tends to be players’twenties.
+But is not convincible enough with partial analysis，so the deeper analysis is necessary.
+
+The max age of the MVP is 35 and there are some MVP Winners who over age of 30.
+From this Age Distribution chart, the age of MVPs can be divided into three parts： 22-24,25-29,30-35
+The tendency is raising form part 1，reach the peak in part 2 and start to descend in part 3.
+![Age Distribution 2](https://user-images.githubusercontent.com/89670129/135693863-c7190e3e-061b-4d9b-b603-32a179e8ef77.png)
+So the general conclusion is —— The age of MVP tends to be players’twenties and the older the player the possibility to win MVP is smaller.
+
+
+Position Distribution also demonstrate some rules. From the Position Distribution Chart we can see the number of three major positions: Center 27 > Forward 20 > Guard 19.
+The numbers are almost the same, so the distribution of the MVP is very even.
+Perhaps the difference in position will affect the player's posscession of the ball, but what is certain that being a MVP  must be both offensive and defensive.
+
+
 ## Data Selection
 #### There are many features that affect MVP evaluation, we decided to use Random Forest Regression and Heatmaps to indentify which features that are important to our prediction model。
 
