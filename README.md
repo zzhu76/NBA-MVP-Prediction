@@ -2,6 +2,9 @@
 
 ## Historical Data Analysis
 
+#### Regional Analysis
+![map](https://user-images.githubusercontent.com/89670129/135697451-be9649bb-fa51-4999-bb11-ab8e87c33ba2.png)
+
 #### Age Distribution
 
 According to the list of NBA MVP Winners from 1956 to 2021, we can get basic information of the MVPs. I analyzed the original data with Python.
@@ -21,6 +24,7 @@ Position Distribution also demonstrate some rules. From the Position Distributio
 The numbers are almost the same, so the distribution of the MVP is very even.
 Perhaps the difference in position will affect the player's posscession of the ball, but what is certain that being a MVP  must be both offensive and defensive.
 
+#
 
 ## Data Selection
 #### There are many features that affect MVP evaluation, we decided to use Random Forest Regression and Heatmaps to indentify which features that are important to our prediction model。
